@@ -10,6 +10,12 @@ public class MoveIA : MonoBehaviour
     public float Speed;
     public int State;
 
+    // Start is called before the first frame update
+    void Start()
+    {
+
+    }
+
     // Update is called once per frame
     void Update()
     {
